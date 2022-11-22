@@ -3,4 +3,4 @@ def main():
 
 
 if __name__ == '__first__':
-    main()
+    main() 
